@@ -7,5 +7,3 @@ In this project we be implemented following boolean query processing classes:
 > Document at a time OR operation
 
 Used given index file “term.idx” to import index.
-
-Please refer to report for detailed description of this project.
